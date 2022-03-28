@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p python/{ajax/{ajax_api,ajax_flask},flask/fundamentals,flask_mysql/{belt_review,crud,db_connection,validation},fundamentals/{extras,fundamentals,introduction,oop},mysql/{erd,queries}}
